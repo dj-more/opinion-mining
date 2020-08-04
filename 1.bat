@@ -1,0 +1,1 @@
+curl "https://southcentralus.api.cognitive.microsoft.com/text/analytics/v3.0-preview.1/sentiment?showStats=true&model-version=3" -H "Content-Type: application/json" -H "Ocp-Apim-Subscription-Key: 3f7e7a5c8aaa4e5fa43ae374eb922ffb" -d "The restaurant was good but waiter was not"
